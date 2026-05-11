@@ -13,8 +13,7 @@ Ensuite, nous installons ou mettons à jour les composants nécessaires à l'exp
 - **Frida** et **Frida-tools**
 - **Objection**
 
-![Installation des outils](./lab16/2.png)
-*Figure 2 : Mise à jour de l'environnement via pip.*
+
 
 ## 2. Configuration de l'Appareil Android
 
